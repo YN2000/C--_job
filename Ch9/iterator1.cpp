@@ -7,7 +7,6 @@ int main()
     std::vector<int> vec(5);
 
     vec[2] = 102;
-
     vec.at(1) = 101;
 
     int *p = &vec[0];
