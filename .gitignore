@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# Additional
+*.plist
+*.yml
+out/*
+Ch6/out/*
+.DS_Store
