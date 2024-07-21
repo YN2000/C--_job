@@ -36,4 +36,5 @@
 *.yml
 out/*
 Ch6/out/*
+Ch12/out/*
 .DS_Store
